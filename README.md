@@ -22,9 +22,9 @@ Here's an example of how to use the web app:
 
 1. Open your web browser and navigate to `http://localhost:8501`.
 2. Enter the text to inisiate "arduino uno" into the text box.
-3. specify the amount of text you want to generate
+3. Specify the amount of text you want to generate
 4. Click the "Generate Text" button.
-4. The web app should display generated text.
+5. The web app should display generated text.
 
 ## Issues
 
