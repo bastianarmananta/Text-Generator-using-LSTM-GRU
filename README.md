@@ -1,6 +1,6 @@
 # Text Generator using LSTM-GRU and Bidirectional Architecture
 
-This project is a sophisticated text generator that utilizes LSTM/GRU models to create new text based on the user's input. The accompanying web application provides a user-friendly interface for generating new text, allowing users to input a starting text and obtain a unique output.
+This project is a resulting text generator that utilizes LSTM/GRU models to create new text based on the user's input. The accompanying web application provides a user-friendly interface for generating new text, allowing users to input a starting text and obtain a unique output.
 
 ## Installation
 
