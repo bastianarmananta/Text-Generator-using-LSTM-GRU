@@ -28,7 +28,7 @@ Here's an example of how to use the web app:
 
 ## Issues
 
-The outcome of this project is an adaptable web application that can generate text based on the quantity of data entered by the user. This application exclusively utilizes Indonesian data. Therefore, to maximize output quality, it is essential to provide the application with Indonesian text input.
+This project is have none of issues.
 
 ## Acknowledgements
 
