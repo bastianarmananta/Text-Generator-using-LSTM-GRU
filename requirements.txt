@@ -1,2 +1,3 @@
 streamlit==1.17.0
 tensorflow==2.12.0
+git-lfs==2.13.3
